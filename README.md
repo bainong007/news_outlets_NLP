@@ -2,7 +2,7 @@
 Comparative Analysis of News Media focus on Hong Kong Protests
 This is my 5th projects done during the Metis Data Science Boot Camp.
 
-[My view of Hong Kong Protest 7/1 to 9/1](https://github.com/bainong007/news_outlets_NLP/blob/master/image/hk_protest.png)
+![My view of Hong Kong Protest 7/1 to 9/1](https://github.com/bainong007/news_outlets_NLP/blob/master/image/hk_protest.png)
 
 
 3 Questions in mind:
