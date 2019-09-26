@@ -28,3 +28,4 @@ Answered all three question using
 
 Result:
 See presenation powerpoint below:
+[Presentation PowerPoint](https://github.com/bainong007/news_outlets_NLP/blob/master/presentation/HK_Protest.pptx)
